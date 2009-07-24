@@ -1,0 +1,76 @@
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="Anthrax|anthrax" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Kenya" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="Maragua|Samburu|Itara|Itara Village|Wamba Division|Iremba|Gikomora|Ichagaki" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="anthrax virus" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Present"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="true"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="true"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="true"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content=""/>
+</EVENT>
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="Anthrax|anthrax" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Kenya" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="Maragua|Samburu|Itara|Itara Village|Wamba Division|Iremba|Gikomora|Ichagaki" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="anthrax virus" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="non_human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Present"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="true"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="true"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="true"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="cows" content=""/>
+</EVENT>
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="Anthrax|anthrax" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Kenya" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="Muranga|Nyeri|Thika|Wajir" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="anthrax virus" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Historical"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="true"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="true"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content="2001 Outbreak"/>
+</EVENT>
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="Anthrax|anthrax" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Kenya" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="Muranga|Nyeri|Thika|Wajir" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="anthrax virus" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="non_human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Historical"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="true"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="true"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content="2001 Outbreak"/>
+</EVENT>

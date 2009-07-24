@@ -1,0 +1,19 @@
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="West Nile Virus|West Nile virus|West Nile virus infection" alt="West Nile" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Canada" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="Saskatchewan" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="Cypress|Five Hills|Five Hills Health Region|Heartland Health Region|Kelsey Trail|Prairie North|Regina QuAppelle|Regina QuAppelle Health Region|Saskatoon|Sun Country|Sun Country Health Region" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="West Nile virus" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Present"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="true"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="false"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content=""/>
+</EVENT>

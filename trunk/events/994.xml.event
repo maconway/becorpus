@@ -1,0 +1,19 @@
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="ONCHOCERCIASIS|onchocerciasis|River blindness|river blindness" alt="skin disease" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="GHANA|Ghana" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="West Africa" alt="Africa" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Hypothetical"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="true"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="true"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="false"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content="This article is mainly about a drug resistant river blindness."/>
+</EVENT>

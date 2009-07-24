@@ -1,0 +1,38 @@
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="Poliomyelitis|poliomyelitis" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Kenya" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="Garissa" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="wild poliovirus type-1" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Recent_Past"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="true"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="false"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="false"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content=""/>
+</EVENT>
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="Poliomyelitis|poliomyelitis" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Somalia" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="Kismayo" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="wild poliovirus type-1" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Present"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="true"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="false"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="false"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content=""/>
+</EVENT>

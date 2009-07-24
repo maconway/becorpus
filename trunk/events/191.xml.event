@@ -1,0 +1,38 @@
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="AVIAN INFLUENZA|Avian influenza|H5N1 avian influenza|avian influenza|bird flu" alt="acute respiratory distress syndrome|severe pneumonia|bacterial infection" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="THAILAND|Thailand" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="Suphanburi|Kanchanaburi|Nakornsawan|Chachoengsao" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="H5N1|H5N1 strain|avian influenza A virus|Avian Influenza A" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Present"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="false"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="false"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content="Neither 'International Travel' nor 'Zoonosis' is mentioned in the article."/>
+</EVENT>
+<EVENT name="OUTBREAK">
+	<SLOT name="HAS_DISEASE" type="DISEASE" content="AVIAN INFLUENZA|Avian influenza|H5N1 avian influenza|avian influenza|bird flu" alt="acute respiratory distress syndrome|bacterial infection|severe pneumonia" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.COUNTRY" type="LOCATION" content="Vietnam" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.PROVINCE" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_LOCATION.OTHER" type="LOCATION" content="" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_AGENT" type="micro_organism" content="Avian Influenza A|H5N1|H5N1 strain|avian influenza A virus" alt="" root_term="" bid=""/>
+	<SLOT name="HAS_SPECIES" type="animal" content="human" alt="" root_term="" bid=""/>
+	<SLOT name="TIME.relative" type="string" content="Present"/>
+	<SLOT name="INTERNATIONAL_TRAVEL" type="Boolean" content="false"/>
+	<SLOT name="DELIBERATE_RELEASE" type="Boolean" content="false"/>
+	<SLOT name="ZOONOSIS" type="Boolean" content="false"/>
+	<SLOT name="DRUG_RESISTANCE" type="Boolean" content="false"/>
+	<SLOT name="FOOD_CONTAMINATION" type="Boolean" content="false"/>
+	<SLOT name="HOSPITAL_WORKER" type="Boolean" content="false"/>
+	<SLOT name="FARM_WORKER" type="Boolean" content="false"/>
+	<SLOT name="PRODUCT_MALFORMATION" type="Boolean" content="false"/>
+	<SLOT name="NEW_TYPE_AGENT" type="Boolean" content="false"/>
+	<SLOT name="COMMENT" type="string" content="Neither 'International Travel' nor 'Zoonosis' is mentioned in the article."/>
+</EVENT>
