@@ -1,0 +1,117 @@
+1000.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,38838 (Promed ID: 20070815.2668)
+185.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32268 (Promed ID: 20060307.0733)
+186.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,35147 (Promed ID: 20061109.3216)
+192.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,33332 (Promed ID: 20060623.1743)
+201.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32362 (Promed ID: 20060316.0821)
+205.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32286 (Promed ID: 20060309.0751)
+208.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32363 (Promed ID: 20060316.0822)
+521.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,31522 (Promed ID: 20060103.0019)
+525.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,31531 (Promed ID: 20060104.0028)
+526.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,31529 (Promed ID: 20060104.0026)
+980.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39439 (Promed ID: 20070924.3163)
+989.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39487 (Promed ID: 20070927.3205)
+999.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39523 (Promed ID: 20070930.3234)
+1003.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39557 (Promed ID: 20071002.3262) [NB.  The web article is longer than the article on file.  The article on file ends with "and died in hospital on 28 Sep 2007."]
+180.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:4867270933510243::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,20958 (Promed ID: 20030314.0631)
+429.xml http://www.redorbit.com/news/international/365177/bird_flu_confirmed_in_deaths_of_2_indonesian_children/ [originally Reuters, but the text is identical]
+440.xml [NOT AVAILABLE -- Reuters text too old]
+662.xml [NOT AVAILABLE -- Reuters text too old]
+673.xml [NOT AVAILABLE -- Reuters text too old]
+695.xml [NOT AVAILABLE -- Reuters text too old]
+750.xml [NOT AVAILABLE -- Reuters text too old]
+817.xml [NOT AVAILABLE -- Reuters text too old]
+829.xml [NOT AVAILABLE -- Reuters text too old]
+830.xml [NOT AVAILABLE -- Reuters text too old]
+842.xml http://www.reliefweb.int/rw/RWB.NSF/db900SID/VBOL-6MPKMK?OpenDocument [originally from Reuters, but the text is identical]
+847.xml http://www.redorbit.com/news/health/452795/bausch__lomb_responds_to_infection_in_lens_wearers/ [originally from Reuters, but the text is identical]
+916.xml http://www.rense.com/general69/chinad.htm [originally from Reuters, but the text is identical]
+761.xml http://www.theage.com.au/news/world/bird-flu-found-in-romania/2005/12/30/1135732714873.html [originally from Reuters, but the text is identical]
+832.xml [NOT AVAILABLE -- Reuters text too old]
+834.xml http://www.redorbit.com/news/health/440181/thailand_battles_major_outbreak_of_botulism/ [originally from Reuters, but the text is identical]
+699.xml http://news.bbc.co.uk/2/hi/south_asia/4728952.stm
+5.xml http://news.bbc.co.uk/2/hi/uk_news/scotland/south_of_scotland/4797513.stm
+552.xml http://news.bbc.co.uk/2/low/health/4607370.stm
+553.xml http://news.bbc.co.uk/2/hi/europe/4605814.stm
+700.xml http://news.bbc.co.uk/2/hi/health/4787234.stm
+701.xml http://news.bbc.co.uk/2/hi/middle_east/4768318.stm
+702.xml http://news.bbc.co.uk/2/hi/americas/4803718.stm
+714.xml http://news.bbc.co.uk/2/hi/uk_news/england/cumbria/4864154.stm
+724.xml http://news.bbc.co.uk/2/hi/uk_news/england/lancashire/4813872.stm
+738.xml http://news.bbc.co.uk/2/hi/health/4696522.stm
+317.xml http://www.who.int/csr/don/2006_07_25/en/index.html
+311.xml http://www.who.int/csr/don/2006_10_16/en/index.html
+313.xml http://www.who.int/csr/don/2006_03_01/en/index.html
+320.xml http://www.who.int/csr/don/2006_10_19/en/index.html
+323.xml http://www.who.int/csr/don/2006_10_19a/en/index.html
+430.xml http://www.who.int/csr/don/2005_06_14b/en/index.html
+431.xml http://www.who.int/csr/don/2005_06_16a/en/index.html
+444.xml http://www.who.int/csr/don/2005_11_01/en/index.html
+488.xml http://www.who.int/csr/don/2002_11_13/en/index.html
+925.xml http://www.who.int/csr/don/2005_05_19/en/index.html
+749.xml http://www.cbsnews.com/stories/2000/12/08/national/main255919.shtml
+753.xml http://www.cbsnews.com/stories/2003/11/14/health/main583575.shtml
+774.xml http://www.cbsnews.com/stories/2003/06/05/health/main557064.shtml
+779.xml http://www.cbsnews.com/stories/2006/03/10/health/main1389364.shtml
+781.xml http://www.cbsnews.com/stories/2003/04/01/health/main547213.shtml
+51.xml [NOT AVAILABLE -- too old to appear on CBC website]
+70.xml [NOT AVAILABLE -- only a very different, newer version is available on CBC website]
+66.xml http://www.cbc.ca/canada/story/2004/10/20/c_difficile041020.html
+79.xml [NOT AVAILABLE -- too old to appear on CBC website]
+85.xml [NOT AVAILABLE -- not on CBC website]
+272.xml http://english.vietnamnet.vn/social/2006/02/544361/
+273.xml http://english.vietnamnet.vn/tech/2004/07/173798/
+275.xml http://english.vietnamnet.vn/social/2003/10/140320/
+285.xml http://english.vietnamnet.vn/social/2006/03/547053/
+305.xml http://english.vietnamnet.vn/social/2003/12/142031/
+928.xml http://www.hindustantimes.com/StoryPage/Print.aspx?Id=66c6d705-4b98-444c-8ba4-808f71ee195e
+929.xml http://www.hindustantimes.com/StoryPage/Print.aspx?Id=6cf78979-4238-4e5f-8616-3ce6592cf57c
+931.xml http://www.hindustantimes.com/StoryPage/Print.aspx?Id=7910c13d-4aee-4776-accd-1514472156f5
+944.xml http://www.hindustantimes.com/StoryPage/Print.aspx?Id=10851883-f8c0-4c3b-813c-5a68961ba100
+949.xml http://www.hindustantimes.com/StoryPage/Print.aspx?Id=10401f8c-b2e6-4a15-8a3f-167623674360
+130.xml http://www.nationmultimedia.com/search/read.php?newsid=117782
+132.xml http://www.nationmultimedia.com/search/read.php?newsid=100912
+142.xml http://www.nationmultimedia.com/search/read.php?newsid=30000158
+148.xml http://www.nationmultimedia.com/search/read.php?newsid=46997
+151.xml http://www.nationmultimedia.com/search/read.php?newsid=116049
+364.xml http://allafrica.com/stories/printable/200112120718.html
+369.xml [NOT AVAILABLE -- requires subscription AFRICA]
+370.xml [NOT AVAILABLE -- requires subscription AFRICA]
+372.xml [NOT AVAILABLE -- requires subscription AFRICA]
+381.xml [NOT AVAILABLE -- requires subscription AFRICA]
+787.xml http://english.peopledaily.com.cn/200604/06/eng20060406_256290.html [originally Xinhua, but the text is identical]
+788.xml http://news.xinhuanet.com/english/2006-04/06/content_4392611.htm
+789.xml http://news.xinhuanet.com/english/2006-03/25/content_4342619.htm
+802.xml http://news.xinhuanet.com/english/2006-04/04/content_4383738.htm
+979.xml http://news.xinhuanet.com/english/2006-11/16/content_5337622.htm
+387.xml [NOT AVAILABLE -- does not appear on Anatara website]
+388.xml [NOT AVAILABLE -- does not appear on Anatara website]
+393.xml [NOT AVAILABLE -- does not appear on Anatara website]
+399.xml [NOT AVAILABLE -- does not appear on Anatara website]
+404.xml http://www.antara.co.id/en/arc/2006/5/2/eight-infants-die-of-malarial-disease-in-kupang/
+946.xml http://www.hindustantimes.com/StoryPage/Print.aspx?Id=f6384814-3a88-4e40-b677-499193dfd08a
+985.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2360895525263204::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39416 (Promed ID: 20070921.3144)
+984.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2360895525263204::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39472 (Promed ID: 20070926.3190)
+1045.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2360895525263204::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,28309 (Promed ID: 20050310.0708)
+54.xml [NOT AVAILABLE -- too old to appear on the CBC website]
+174.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2360895525263204::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,21323 (Promed ID: 20030419.0959)
+449.xml http://www.who.int/csr/don/2005_12_19/en/index.html
+206.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2360895525263204::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32329 (Promed ID: 20060313.0791) [NB.  It is the 2nd part of the article we are interested in, the part about Niger.  Not india.  The original document is not marked up for the first, Indian, part)
+451.xml  [NOT AVAILABLE -- Reuters text too old]
+155.xml http://www.nationmultimedia.com/search/read.php?newsid=30004023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

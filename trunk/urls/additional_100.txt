@@ -1,0 +1,100 @@
+1001.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:80787::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,35514 (Promed ID: 20061215.3527)
+200.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2432004979427397::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32144 (Promed ID: 20060224.0611)
+202.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2432004979427397::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,31891 (Promed ID: 20060205.0374)
+203.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:2432004979427397::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,31931 (Promed ID: 20060208.0410)
+207.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:3066035692787544::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32347 (Promed ID: 20060315.0809)
+210.xml http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=2924 [the source is flagged as ProMED, but unavailable there] 
+981.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39435 (Promed ID: 20070923.3161)
+983.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39414 (Promed ID: 20070921.3142)
+986.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,30366 (Promed ID: 20050911.2691)
+987.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,37668 (Promed ID: 20070601.1778)
+988.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,37287 (Promed ID: 20070503.1443)
+990.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39484 (Promed ID: 20070927.3202)
+991.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39486 (Promed ID: 20070927.3204)
+992.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39401 (Promed ID: 20070921.3134)
+993.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,39170 (Promed ID: 20070906.2942)
+994.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,38428 (Promed ID: 20070719.2319)
+191.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,24196 (Promed ID: 20040123.0262)
+194.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32551 (Promed ID: 20060403.0997)
+195.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32526 (Promed ID: 20060331.0976)
+204.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:1043545179798280::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32317 (Promed ID: 20060312.0780)
+172.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:289616418413285::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,11053 (Promed ID: 19950512.0272)
+173.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:289616418413285::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,12319 (Promed ID: 20000826.1430)
+175.xml http://www.promedmail.org/pls/otn/f?p=2400:1202:53103::NO::F2400_P1202_CHECK_DISPLAY,F2400_P1202_PUB_MAIL_ID:X,32509 (Promed ID: 20060330.0960) [alternative:http://ro-a.redorbit.com/news/health/447672/singapore_hand_foot_and_mouth_cases_surge_report/index.html.  NOTE:  in the promed article, the text begins halfway down the page, with "The number of cases of children with hand, foot..."]
+554.xml http://news.bbc.co.uk/2/hi/uk_news/england/southern_counties/4599388.stm [NOTE:  This refers to the Hospital part of the document]
+555.xml http://news.bbc.co.uk/2/hi/uk_news/england/kent/4584576.stm
+711.xml http://news.bbc.co.uk/2/hi/africa/4777530.stm
+721.xml http://news.bbc.co.uk/2/hi/uk_news/england/4871728.stm
+722.xml http://news.bbc.co.uk/2/hi/uk_news/england/coventry_warwickshire/4507768.stm
+741.xml http://news.bbc.co.uk/2/hi/uk_news/england/bradford/4844762.stm
+748.xml http://www.cbsnews.com/stories/2005/12/01/health/main1093001.shtml
+754.xml http://www.cbsnews.com/stories/2003/11/12/health/main583135.shtml [NOTE: In the URL given, there is an extra 2 paragraphs]
+755.xml http://www.cbsnews.com/stories/2004/09/03/health/main641012.shtml
+756.xml http://www.cbsnews.com/stories/2002/11/18/national/main529769.shtml   [NOTE:  In the url, ignore text after "adults to contract the illness"]
+757.xml http://www.cbsnews.com/stories/2003/06/10/health/main557847.shtml
+766.xml http://www.cbsnews.com/stories/2004/07/19/health/main630608.shtml
+771.xml http://www.cbsnews.com/stories/2005/05/24/health/main697390.shtml?
+780.xml http://www.cbsnews.com/stories/2002/12/17/health/main533273.shtml?source=search_story [the annotated article ends with ""...in the first place," he said"]
+269.xml http://vietnamnet.vn/service/printversion.vnn?article_id=508822
+270.xml http://english.vietnamnet.vn/social/2006/05/570409/
+274.xml http://english.vietnamnet.vn/tech/2004/07/173798/
+287.xml http://english.vietnamnet.vn/social/2006/06/583021/
+288.xml http://english.vietnamnet.vn/social/2006/06/583809/
+279.xml http://english.vietnamnet.vn/social/2005/12/520907/ [Note: the annotated article ends with "...and other international organizations."  i.e. First half of the text].
+278.xml http://vietnamnet.vn/service/printversion.vnn?article_id=725334
+312.xml http://www.who.int/csr/don/2006_10_11a/en/index.html
+314.xml http://www.who.int/csr/don/2006_10_17/en/index.html
+315.xml http://www.who.int/csr/don/2006_06_21/en/index.html
+316.xml http://www.who.int/csr/don/2006_10_04/en/index.html
+318.xml http://www.who.int/csr/don/2006_11_21/en/index.html
+319.xml http://www.who.int/csr/don/2006_06_07/en/index.html
+321.xml http://www.who.int/csr/don/2006_11_07/en/index.html
+432.xml http://www.who.int/csr/don/2005_06_17a/en/index.html
+433.xml http://www.who.int/csr/don/2005_06_28/en/index.html
+435.xml http://www.who.int/csr/don/2005_07_21a/en/index.html
+436.xml http://www.who.int/csr/don/2005_07_29c/en/index.html
+437.xml http://www.who.int/csr/don/2005_09_16/en/index.html
+438.xml http://www.who.int/csr/don/2005_09_19/en/index.html
+439.xml http://www.searo.who.int/EN/Section10/Section1027_10374.htm
+441.xml http://www.who.int/csr/don/2005_10_10/en/index.html
+442.xml http://www.who.int/csr/don/2005_10_20a/en/index.html
+443.xml http://www.who.int/csr/don/2005_10_24/en/index.html
+445.xml http://www.who.int/csr/don/2008_02_05/en/index.html
+446.xml http://www.who.int/csr/don/2005_11_09/en/index.html
+447.xml http://www.who.int/csr/don/2005_11_14/en/index.html
+448.xml http://www.who.int/csr/don/2005_12_30/en/index.html
+450.xml http://www.who.int/csr/don/2005_12_14/en/index.html
+452.xml http://www.who.int/csr/don/2006_01_12/en/index.html
+454.xml http://www.who.int/csr/don/2004_04_26/en/
+456.xml http://www.who.int/csr/don/2004_01_31/en/index.html
+458.xml http://www.who.int/csr/don/2001_11_23/en/index.html
+459.xml http://www.who.int/csr/don/2001_11_05/en/index.html
+460.xml http://www.who.int/csr/don/2006_01_10/en/index.html
+461.xml http://www.who.int/csr/don/2006_01_14/en/index.html
+463.xml http://www.who.int/csr/don/2006_01_16/en/index.html
+52.xml http://www.cbc.ca/health/story/2005/10/13/virus-nunavut051013.html
+55.xml [NOT_AVAILABLE]
+56.xml [NOT_AVAILABLE]
+57.xml http://www.cbc.ca/canada/story/2002/09/06/westnile_020906.html
+58.xml http://www.cbc.ca/world/story/2006/03/21/bird-flu-toll060321.html
+60.xml http://www.cbc.ca/canada/story/2005/10/31/avian-flu051031.html
+67.xml http://www.cbc.ca/canada/story/2001/02/06/virus_reax010206.html
+68.xml http://www.cbc.ca/canada/story/2005/08/18/encephalitis_outbreak_india20050818.html
+69.xml [NOT_AVAILABLE]
+70.xml [NOT_AVAILABLE]
+77.xml [NOT_AVAILABLE]
+927.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=6c3c0e82-f6b6-4c3d-920b-63cc20c42957
+930.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=373af030-ef23-4ef0-a49b-739a9c9ea628
+936.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=dd5d1f55-468e-4f8c-afa0-3e115e1bda80
+938.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=6343a9d2-0948-4031-bb12-5dea1e88d4fb
+939.xml [NOT_AVAILABLE]
+940.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=10510077-d778-412f-9e16-27cb1bd3229f
+941.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=a37330b8-8d0b-4929-8f02-aac5473fa825
+942.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=f6a3a5a3-0eed-4c12-a6b7-94b3600ae7ba
+943.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=f500b9cd-2f31-4955-aebf-53dca0e6e360
+945.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=45ae3680-f1c4-4184-b956-af6df4673862
+947.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=a92d0b30-8f47-4cc9-980d-436b5a41a454
+948.xml http://www.hindustantimes.com/StoryPage/StoryPage.aspx?id=ad14b06d-7826-4441-af59-8da2ff2be490
+129.xml http://www.nationmultimedia.com/search/read.php?newsid=118362
+133.xml http://www.nationmultimedia.com/search/read.php?newsid=77673
+134.xml http://www.nationmultimedia.com/search/read.php?newsid=79944
